@@ -10,4 +10,3 @@ From classification to regression, clustering to reinforcement learning, these p
 Whether you're an aspiring data scientist, a curious developer, or an experienced practitioner, this repository invites you to unravel the mysteries of machine learning. Embrace the opportunity to learn, experiment, and contribute to the ever-evolving landscape of intelligent systems.
 
 Embark on this exciting journey through the world of machine learning, where each project represents a milestone in my exploration of this dynamic field. Your curiosity and enthusiasm will find a perfect match in the wealth of knowledge and innovation housed within these folders. Happy learning! 🚀🤖✨
-ertyuipoiuytrkjhgfdddddkjhgfkjhgfd
